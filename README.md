@@ -1,4 +1,4 @@
-### <h1 align="center">Hi tuskungg </h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### <h1 align="center">tuskungg<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuskingcup&show_icons=true&theme=tokyonight)
 
