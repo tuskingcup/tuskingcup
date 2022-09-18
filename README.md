@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=huato112.huato112&style=flat-square&color=0088cc)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/tuskungg/)
-[![Facebook Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png)](https://www.facebook.com/rapeepat.klamjeen/)
+[![Facebook Badge](https://cdn-icons-png.flaticon.com/512/124/124010.png)](https://www.facebook.com/rapeepat.klamjeen/)
 
 ![Dukeon](./image/dukemon.gif)
 
